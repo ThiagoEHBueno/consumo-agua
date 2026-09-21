@@ -1,8 +1,8 @@
-﻿consumo-agua ![Static Badge](https://img.shields.io/badge/-Hub?style=social&logoColor=green&label=Git--Hub)
-
+﻿consumo-agua ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+ 
 Programa para verificar o uso de água residencial ou comercial. ![Static Badge](https://img.shields.io/badge/-Hub?style=social&logoColor=green&label=Water)
 
-Linguagem utilizada: Python ![Python Badge](https://img.shields.io/badge/Python-Linguagem-blue?logo=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F166477%2Fisolated%2Fpreview%2F9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png)
+Linguagem utilizada: Python ![GitHub](https://img.shields.io/badge/GitHub-Repositório-black?logo=github&logoColor=white)
 
 Operadores lógicos utilizados
 
